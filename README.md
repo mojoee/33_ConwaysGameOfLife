@@ -1,6 +1,6 @@
 # Conway's game of Life
 
-<video src='https://imgur.com/a/KjHVQAR' width=180/>
+![](https://imgur.com/a/KjHVQAR)
 
 ### Description
 This is the simulation of Conway's game of Life with pygame.
