@@ -1,6 +1,6 @@
 # Conway's game of Life
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="o7cSRpn" data-context="false" ><a href="//imgur.com/o7cSRpn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="//imgur.com/o7cSRpn"></a>
 
 
 ### Description
