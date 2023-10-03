@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "33-conwaysgameoflife"
+version = "0.1.0"
+description = "a simulation of conways GoL"
+authors = ["mojoee <47809126+mojoee@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "33_conwaysgameoflife"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
