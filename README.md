@@ -13,3 +13,7 @@ poetry
 poetry install
 poetry run python main.p
 ```
+
+### libraries and frameworks
+* pygame
+* poetry
